@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "Akash",
+      "username": "soni",
+      "email": "akashkumarsonir6@gmail.com",
+      "phone": "9148885398",
+      "website": "webcrypt.com",
+      "address": "Bngalore",
+      "id": 1
+    },
+    {
+      "name": "Rakesh",
+      "username": "kum",
+      "email": "akashkumarsonir6@gmail.comiij",
+      "phone": "123456789",
+      "website": "jjhj",
+      "address": "Bngalore",
+      "id": 4
+    },
+    {
+      "name": "Akash",
+      "username": "dd",
+      "email": "akashkumarsonir6@gmail.com",
+      "phone": "9148885398",
+      "website": "sdd",
+      "address": "Bngalore",
+      "id": 5
+    }
+  ]
+}
